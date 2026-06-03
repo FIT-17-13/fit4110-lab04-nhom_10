@@ -1,7 +1,7 @@
 {
   "name": "fit4110-lab04-docker-packaging",
   "version": "0.1.0",
-  "description": "FIT4110 Lab 04 - Docker packaging and Newman verification for Smart Campus services",
+  "description": "FIT4110 Lab 04 - Docker packaging and Newman verification for Smart Campus Access Gate service",
   "private": true,
   "scripts": {
     "mock:iot": "prism mock contracts/iot-ingestion.openapi.yaml --host 0.0.0.0 --port 4010",
